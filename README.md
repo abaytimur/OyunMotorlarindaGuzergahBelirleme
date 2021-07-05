@@ -1,1 +1,2 @@
 # OyunMotorlarindaGuzergahBelirleme
+## Bu alan düzenlenecektir.
